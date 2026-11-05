@@ -8,7 +8,7 @@ CiteCheck is a skill, written as a single Markdown file (`SKILL.md`), that guide
 
 **Affiliation:** Department of Humanities and Social Sciences, Indian Institute of Technology (Indian School of Mines), Dhanbad
 
-**Project webpage:** https://adityakumar190.github.io/citecheck-academic-auditor/
+**Project webpage:** https://adityakumar190.github.io/citationcheckerskill/
 
 ## Design question
 
