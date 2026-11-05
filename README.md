@@ -1,9 +1,11 @@
-# CiteCheck: APA 7 & MLA 9 Academic Citation Auditor
+# CiteCheck: APA 7 and MLA 9 Academic Citation Auditor
 
 CiteCheck is a skill, written as a single Markdown file (`SKILL.md`), that guides a language-model assistant in auditing the citations of an academic paper written in **APA 7** or **MLA 9**. It extracts the in-text citations and the reference entries, matches them in both directions, checks formatting against the chosen style and reports the results in a structured academic report. When tools and source texts are available, it can also verify publications, DOIs and URLs and assess whether a source supports the claim made about it.
 
 **Author:** Aditya Kumar
+
 **Semester:** Monsoon Semester 2026
+
 **Affiliation:** Department of Humanities and Social Sciences, Indian Institute of Technology (Indian School of Mines), Dhanbad
 
 **Project webpage:** https://adityakumar190.github.io/citecheck-academic-auditor/
